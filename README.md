@@ -1,26 +1,26 @@
 # Controlador de Soldador Intelixente 
 
 > [!NOTE]
-> Documentación en galego
+> DocumentaciÃ³n en galego
 
-Tratase dun **controlador térmico intelixente** para soldadores con placa calefactora, 
-deseñado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
+Tratase dun **controlador tÃ©rmico intelixente** para soldadores con placa calefactora, 
+deseÃ±ado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
 
-- Axuste preciso da temperatura (20–300 °C).
+- Axuste preciso da temperatura (20â€“300Â Â°C).
 - Control P simple e estable.
-- Detección de fallos do termistor.
-- Gráfico en tempo real da temperatura.
+- DetecciÃ³n de fallos do termistor.
+- GrÃ¡fico en tempo real da temperatura.
 - Logo de XDeSIG ao arrancar.
 - Indicador ON/OFF do calefactor na pantalla.
-- Corte de emerxencia por sobrecalentamento (360 °C).
-Saú2.
+- Corte de emerxencia por sobrecalentamento (360Â Â°C).
+SaÃº2.
 
-## [Versión 001]
+## [VersiÃ³n 001]
 
 <img src="https://github.com/xdesig/Plac_soldadura/Plataforma_soldadora_.webp" width="400">
 <img src="https://github.com/xdesig/Plac_soldadura/Plataforma_soldadora_2.webp" width="400">
 
-* ### Deseñado en Estrimia con agarimo.
+* ### DeseÃ±ado en Estrimia con agarimo.
 
 ---
 
