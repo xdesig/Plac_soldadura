@@ -17,8 +17,8 @@ Saú2.
 
 ## [Versión 001]
 
-<img src="https://github.com/xdesig/Plac_soldadura/Plataforma_soldadora_.webp" width="400">
-<img src="https://github.com/xdesig/Plac_soldadura/Plataforma_soldadora_2.webp" width="400">
+<img src="https://github.com/xdesig/Plac_soldadura/Plataforma_soldadora_.png" width="400">
+<img src="https://github.com/xdesig/Plac_soldadura/Plataforma_soldadora_2.png" width="400">
 
 * ### Deseñado en Estrimia con agarimo.
 
