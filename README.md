@@ -12,7 +12,7 @@ deseñado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permi
 - Gráfico en tempo real da temperatura.
 - Logo de XDeSIG ao arrancar.
 - Indicador ON/OFF do calefactor na pantalla.
-- Corte de emerxencia por sobrecalentamento (360 °C).
+- Corte de emerxencia por sobrecalentamento (300 °C).
 Saú2.
 
 ## [Versión 001]
