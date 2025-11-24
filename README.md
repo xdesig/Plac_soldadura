@@ -1,9 +1,9 @@
-# Controlador de Soldador Intelixente 
+# Controlador de Soldador Intelixente
 
 > [!NOTE]
 > Documentación en galego
 
-Tratase dun **controlador térmico intelixente** para soldadores con placa calefactora, 
+Tratase dun **controlador térmico intelixente** de placa calefactora para soldar/desoldar,
 deseñado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
 
 - Axuste preciso da temperatura (20–300 °C).

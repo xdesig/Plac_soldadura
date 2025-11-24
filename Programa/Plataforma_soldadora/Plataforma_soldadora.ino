@@ -1,6 +1,6 @@
 /* CERN Open Hardware Licence -W- V2
  * =============================================================
- * PROXECTO: Controlador Intelixente de Soldador para Placa Calefactora
+ * PROXECTO: Controlador Intelixente de Placa Calefactora para soldar/desoldar
  * AUTOR: XDeSIG
  * LICENZA: Código fonte aberto (Open Source)
  * PLATAFORMA: ESP32-C3
