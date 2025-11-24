@@ -10,8 +10,7 @@ deseñado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permi
 - Control P simple e estable.
 - Detección de fallos do termistor.
 - Gráfico en tempo real da temperatura.
-- Logo de XDeSIG ao arrancar.
-- Indicador ON/OFF do calefactor na pantalla.
+- Indicador ON/OFF e potencia aplicada o calefactor na pantalla.
 - Corte de emerxencia por sobrecalentamento (300 °C).
 Saú2.
 
@@ -25,7 +24,7 @@ Saú2.
 
 ## Author and license
 
-* Author: [XDeSIG][TWI01]
+* Author: XDeSIG [No Twitter no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: [Pendente][OSHWA]
 
