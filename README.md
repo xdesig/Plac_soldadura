@@ -1,4 +1,4 @@
-# Controlador de Soldador Intelixente
+# Controlador de placa para soldar
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_.png" width="300" align="right">
 > [!NOTE]
 > Documentación en galego
