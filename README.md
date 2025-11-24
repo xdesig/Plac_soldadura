@@ -1,5 +1,5 @@
 # Controlador de Soldador Intelixente
-<img src="https://github.com/xdesig/NanoClon/blob/main/img/nClon_001.png" width="300" align="right">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_.png" width="300" align="right">
 > [!NOTE]
 > Documentación en galego
 
