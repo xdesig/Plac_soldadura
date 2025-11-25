@@ -1,17 +1,17 @@
 # Controlador de placa para soldar
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_.png" width="300" align="right">
 > [!NOTE]
-> DocumentaciÃ³n en galego
+> Documentación en galego
 
 Tratase dun **controlador tÃ©rmico intelixente** de placa calefactora 230Vac para soldar/desoldar,
 deseÃ±ado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
 
-- Axuste preciso da temperatura (20â€“300Â Â°C).
-- Control P simple e estable.
-- DetecciÃ³n de fallos do termistor.
-- GrÃ¡fico en tempo real da temperatura.
+- Axuste preciso da temperatura (300ºC).
+- Control "P" simple e estable.
+- Detección de fallos do termistor.
+- Gráfico en tempo real da temperatura.
 - Indicador ON/OFF e potencia aplicada o calefactor na pantalla.
-- Corte de emerxencia por sobrecalentamento (300Â Â°C).
+- Corte de emerxencia por sobrecalentamento (300°C).
 - Illamento galvánico (mico-fonte de alimentación conmutada)
 - Control mediante SSR (Triack) a 230Vac
 
@@ -21,11 +21,11 @@ SaÃº2.
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="center">
 
-* ### DeseÃ±ado en Estrimia con agarimo.
+* ### Deseñado en Estrimia con agarimo.
 
 
 
-## Listado de CompoÃ±entes (BOM)
+## Listado de Compoñentes (BOM)
 
 | Qty | Value        | Device                            | Package                      | Parts            | Description        |
 |-----|--------------|-----------------------------------|------------------------------|------------------|--------------------|
