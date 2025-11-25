@@ -46,7 +46,7 @@ Saú2.
 | 1   |              | MOC3041                           | IL410                        | OK1              | OPTO COUPLER       |
 | 1   |              | ROTARTY_ENCODER                   | ROTARY_ENC_PLAIN             | SW2              | Rotary encoder     |
 | 1   |              | RPDZN5W6H                         | RPDZN5W6H                    | U1               |                    |
-|-----|--------------|-----------------------------------|------------------------------|------------------|--------------------|
+
 
 
 ## Author and license
