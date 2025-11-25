@@ -1,31 +1,31 @@
 # Controlador de placa para soldar
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_.png" width="300" align="right">
 > [!NOTE]
-> Documentación en galego
+> DocumentaciÃ³n en galego
 
-Tratase dun **controlador tÃ©rmico intelixente** de placa calefactora 230Vac para soldar/desoldar,
-deseÃ±ado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
+Tratase dun **controlador tÃƒÂ©rmico intelixente** de placa calefactora 230Vac para soldar/desoldar,
+deseÃƒÂ±ado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
 
-- Axuste preciso da temperatura (300ºC).
+- Axuste preciso da temperatura (300ÂºC).
 - Control "P" simple e estable.
-- Detección de fallos do termistor.
-- Gráfico en tempo real da temperatura.
+- DetecciÃ³n de fallos do termistor.
+- GrÃ¡fico en tempo real da temperatura.
 - Indicador ON/OFF e potencia aplicada o calefactor na pantalla.
-- Corte de emerxencia por sobrecalentamento (300°C).
-- Illamento galvánico (mico-fonte de alimentación conmutada)
+- Corte de emerxencia por sobrecalentamento (300Â°C).
+- Illamento galvÃ¡nico (mico-fonte de alimentaciÃ³n conmutada)
 - Control mediante SSR (Triack) a 230Vac
 
-Saú2.
+SaÃº2.
 
-## [Versión 001]
+## [VersiÃ³n 001]
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="center">
 
-* ### Deseñado en Estrimia con agarimo.
+* ### DeseÃ±ado en Estrimia con agarimo.
 
 
 
-## Listado de Compoñentes (BOM)
+## Listado de CompoÃ±entes (BOM)
 
 | Qty | Value        | Device                            | Package                      | Parts            | Description        |
 |-----|--------------|-----------------------------------|------------------------------|------------------|--------------------|
@@ -45,7 +45,7 @@ Saú2.
 | 1   |              | FUS                               | FUSETE5                      | F1               | Fuse 5A            |
 | 1   |              | MOC3041                           | IL410                        | OK1              | OPTO COUPLER       |
 | 1   |              | ROTARTY_ENCODER                   | ROTARY_ENC_PLAIN             | SW2              | Rotary encoder     |
-| 1   |              | RPDZN5W6H                         | RPDZN5W6H [RPDZN5W6H]                   | U1               | AC-DC 5V 700mA     |
+| 1   |              | RPDZN5W6H                         | [RPDZN5W6H]                   | U1               | AC-DC 5V 700mA     |
 
 
 
