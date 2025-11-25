@@ -49,9 +49,10 @@ Saú2.
 
 
 
-## Author and license
 
-** ### Deseñado en Estrimia con agarimo.
+## Deseñado en Estrimia con agarimo.
+
+### Author and license
 * Author: XDeSIG [No Twitter no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: [Pendente][OSHWA]
