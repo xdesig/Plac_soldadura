@@ -21,7 +21,7 @@ Saú2.
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="center">
 
-* ### Deseñado en Estrimia con agarimo.
+
 
 
 
@@ -51,6 +51,7 @@ Saú2.
 
 ## Author and license
 
+** ### Deseñado en Estrimia con agarimo.
 * Author: XDeSIG [No Twitter no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: [Pendente][OSHWA]
