@@ -17,7 +17,7 @@ deseñado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permi
 
 Saú2.
 
-## [Versión 001]
+## [Versi�n 001]
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="center">
 
