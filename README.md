@@ -45,7 +45,7 @@ Saú2.
 | 1   |              | FUS                               | FUSETE5                      | F1               | Fuse 5A            |
 | 1   |              | MOC3041                           | IL410                        | OK1              | OPTO COUPLER       |
 | 1   |              | ROTARTY_ENCODER                   | ROTARY_ENC_PLAIN             | SW2              | Rotary encoder     |
-| 1   |              | RPDZN5W6H                         | RPDZN5W6H                    | U1               |                    |
+| 1   |              | RPDZN5W6H                         | RPDZN5W6H [RPDZN5W6H]                   | U1               | AC-DC 5V 700mA     |
 
 
 
@@ -57,5 +57,6 @@ Saú2.
 
 ---
 
+[RPDZN5W6H]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ac-dc_5V700mA.png
 [CERN-OHL-W]: https://ohwr.org/cern_ohl_w_v2.pdf
 [OSHWA]: https://certification.oshwa.org/pendente.html
