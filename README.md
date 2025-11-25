@@ -41,11 +41,11 @@ Saú2.
 | 1   | 47K          | R-EU_R0603                        | R0603                        | R5               | RESISTOR           |
 | 1   | BTA06400B    | BTA06400B                         | TO220AB                      | T1               | Triac BTA          |
 | 1   |              | DISPLAY-OLED-128X128-I2C          | DISPLAY-OLED-1,5 pulgadas    | OLED             |SDA, SCL, GND, VCC  |
-| 1   |              | ESP32-C3_SUPERMINISMD             | MODULE_ESP-C3_SUPERMINI_SMD  | U5               |                    |
-| 1   |              | FUS                               | FUSETE5                      | F1               | Fuse 5A            |
+| 1   |              | ESP32-C3_SUPERMINISMD             | [ESP32 C3 Supermini]:        | U5               |                    |
+| 1   |              | FUS 5A                            | 8,5x4                        | F1               | Fuse 5A            |
 | 1   |              | MOC3041                           | IL410                        | OK1              | OPTO COUPLER       |
-| 1   |              | ROTARTY_ENCODER                   | ROTARY_ENC_PLAIN             | SW2              | Rotary encoder     |
-| 1   |              | RPDZN5W6H                         | [RPDZN5W6H]                   | U1               | AC-DC 5V 700mA     |
+| 1   |              | ROTARTY_ENCODER                   | [ROTARTY_ENCODER]            | SW2              | Rotary encoder     |
+| 1   |              | RPDZN5W6H                         | [RPDZN5W6H]                  | U1               | AC-DC 5V 700mA     |
 
 
 
@@ -56,7 +56,8 @@ Saú2.
 * Open Hardware Certification: [Pendente][OSHWA]
 
 ---
-
+[ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
+[ESP32 C3 Supermini]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ESP32-C3.webp
 [RPDZN5W6H]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ac-dc_5V700mA.png
 [CERN-OHL-W]: https://ohwr.org/cern_ohl_w_v2.pdf
 [OSHWA]: https://certification.oshwa.org/pendente.html
