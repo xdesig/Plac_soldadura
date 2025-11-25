@@ -15,7 +15,7 @@ deseÃ±ado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permi
 - Illamento galvánico (mico-fonte de alimentación conmutada)
 - Control mediante SSR (Triack) a 230Vac
 
-SaÃº2.
+Saú2.
 
 ## [Versión 001]
 
