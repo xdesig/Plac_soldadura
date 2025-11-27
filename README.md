@@ -52,7 +52,7 @@ Saú2.
 * Author: XDeSIG [No Twitter, no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: ES000055
-<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="right">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="left">
 
 
 ---
