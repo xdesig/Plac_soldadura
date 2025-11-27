@@ -53,7 +53,7 @@ Saú2.
 ## Deseñado en Estrimia con agarimo.
 
 ### Author and license
-* Author: XDeSIG [No Twitter no X]
+* Author: XDeSIG [No Twitter, no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: [Pendente][OSHWA]
 
@@ -62,4 +62,5 @@ Saú2.
 [ESP32 C3 Supermini]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ESP32-C3.webp
 [RPDZN5W6H]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ac-dc_5V700mA.png
 [CERN-OHL-W]: https://ohwr.org/cern_ohl_w_v2.pdf
-[OSHWA]: https://certification.oshwa.org/pendente.html
+[OSHWA]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png
+[License]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/oshw_facts.png
