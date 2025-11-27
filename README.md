@@ -20,7 +20,7 @@ Saú2.
 ## [Versión 001]
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="left">
-<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="300" align="right">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="right">
 
 
 
