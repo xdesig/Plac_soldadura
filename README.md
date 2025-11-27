@@ -19,7 +19,8 @@ Saú2.
 
 ## [Versión 001]
 
-<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="center">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="left">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="300" align="right">
 
 
 
@@ -55,7 +56,7 @@ Saú2.
 ### Author and license
 * Author: XDeSIG [No Twitter, no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
-* Open Hardware Certification:[OSHWA]
+* Open Hardware Certification: ES000055
 
 ---
 [ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
