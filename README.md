@@ -20,11 +20,6 @@ Saú2.
 ## [Versión 001]
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Plataforma_soldadora_2.png" width="300" align="left">
-<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="right">
-
-
-
-
 
 ## Listado de Compoñentes (BOM)
 
@@ -57,6 +52,8 @@ Saú2.
 * Author: XDeSIG [No Twitter, no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: ES000055
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="right">
+
 
 ---
 [ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
