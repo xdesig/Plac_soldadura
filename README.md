@@ -55,7 +55,7 @@ Saú2.
 ### Author and license
 * Author: XDeSIG [No Twitter, no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
-* Open Hardware Certification: [Pendente][OSHWA]
+* Open Hardware Certification:[OSHWA]
 
 ---
 [ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
