@@ -1,5 +1,5 @@
 # Controlador de placa para soldar Con ATmega328p
-<img src="https://github.com/xdesig/Plac_soldadura/Plataforma_sold_ATmega328p/blob/main/Imaxes/IMG_20260528_120601.jpg" width="300" align="right">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/IMG_20260528_120601.jpg" width="300" align="right">
 
 > [!NOTE]
 > Documentaci&oacute;n en galego
@@ -21,7 +21,7 @@ Sa&uacute;dos.
 
 <img src="https://github.com/xdesig//Plataforma_sold_ATmega328p/blob/main/Ecectronica/Plato_soldadura_328P_ESQ.png" width="1024" align="left">
 
-## Listado de CompoÃ±entes (BOM)
+## Listado de Compoñentes (BOM)
 
 |Cant | Valor        | Dispositivo                       | Parte            | Descrición         |
 |-----|--------------|-----------------------------------|------------------|------------------|
