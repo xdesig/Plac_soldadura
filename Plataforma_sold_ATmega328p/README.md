@@ -49,7 +49,7 @@ Sa&uacute;dos.
 
 
 
-## DeseÃ±ado en Estrimia con agarimo.
+## Deseñado en Estrimia con agarimo.
 
 ### Author and license
 * Author: XDeSIG [No Twitter, no X]
