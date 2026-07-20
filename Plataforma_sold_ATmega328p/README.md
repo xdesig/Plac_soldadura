@@ -40,8 +40,8 @@ Saú2.
 | **1** | ATMEGA328P-AU | TQFP-32 | `IC3` | 8-bit Microcontrolador 32KB Flash |
 | **1** | B3U-1000P | SMD_157SW | `S6` | Pulsador 4x3mm SMD H2.5mm |
 | **1** | BTA06-400B (BT136) | TO-220AB | `T1` | Triac  |
-| **1** | CSTCE16M0V53C-R0 | Resonator | `Y1` | Resonador 16MHz SMD |
-| **1** | OLED 0.96" I2C | 128x64 Module | `OL1` | OLED Display Modulo (SSD1306) |
+| **1** | CSTCE16M0V53C-R0 | Resonador | `Y1` | Resonador 16MHz SMD |
+| **1** | OLED 0.96" I2C | 128x64 Modulo | `OL1` | SSD1306 [GND, VCC, SCL, SDA] |
 | **1** | Fuse | TE5 | `F1` | Fusible |
 | **1** | MOC3041 | DIL06 / DIP-6 | `OK1` | Optoacoplador, Triac |
 | **1** | Rotary Encoder | Rotary Enc Plain | `SW2` | Encoder rotativo pulsador |
