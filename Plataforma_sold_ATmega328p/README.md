@@ -1,23 +1,23 @@
 # Controlador de placa para soldar Con ATmega328p
 <img src="https://github.com/xdesig/Plac_soldadura/Plataforma_sold_ATmega328p/blob/main/Imaxes/IMG_20260528_120601.jpg" width="300" align="right">
+
 > [!NOTE]
-> Documentación en galego
+> Documentaci&oacute;n en galego
 
-Tratase dun **controlador térmico intelixente** de placa calefactora 230Vac para soldar/desoldar,
-dese�ado para uso persoal, educativo e experimental. Baseado en ATmega328, non � preciso usar un potente ESP32 para realizar este traballo permite:
+Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefactora 230Vac para soldar/desoldar, dese&ntilde;ado para uso persoal, educativo e experimental. Baseado en ATmega328, non &eacute; preciso usar un potente ESP32 para realizar este traballo, e permite:
 
-- Axuste preciso da temperatura (300ºC).
+- Axuste preciso da temperatura (300&deg;C).
 - Control "P" simple e estable.
-- Detección de fallos do termistor.
-- Gráfico en tempo real da temperatura.
-- Indicador ON/OFF e potencia aplicada o calefactor na pantalla.
-- Corte de emerxencia por sobrecalentamento (300°C).
-- Illamento galvánico (mico-fonte de alimentación conmutada)
-- Control mediante SSR (Triack) a 230Vac
+- Detecci&oacute;n de fallos do termistor.
+- Gr&aacute;fico en tempo real da temperatura.
+- Indicador ON/OFF e potencia aplicada ao calefactor na pantalla.
+- Corte de emerxencia por sobrequecemento (300&deg;C).
+- Illamento galv&aacute;nico (micro-fonte de alimentaci&oacute;n conmutada).
+- Control mediante SSR (Triac) a 230Vac.
 
-Saú2.
+Sa&uacute;dos.
 
-## [Versión 00]
+## [Versi&oacute;n 00]
 
 <img src="https://github.com/xdesig//Plataforma_sold_ATmega328p/blob/main/Ecectronica/Plato_soldadura_328P_ESQ.png" width="1024" align="left">
 
