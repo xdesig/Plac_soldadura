@@ -7,29 +7,29 @@ Este repositorio conten o deseno de hardware, esquema e firmware para o desenvol
 
 ---
 
-## ?? Versions do Proxecto
+## Versions do Proxecto
 
 O repositorio esta dividido en duas variantes segundo o microcontrolador utilizado:
 
-### 1. ?? [Plataforma_sold_ATmega328p](./Plataforma_sold_ATmega328p)
+### 1. [Plataforma_sold_ATmega328p](./Plataforma_sold_ATmega328p)
 - **Microcontrolador:** ATmega328P-AU (TQFP-32)
 - **Descricion:** Version mais lixeira e eficiente baseada na arquitectura clasica de Arduino. Demostra que non e preciso usar un potente ESP32 para realizar este traballo.
 - **Caracteristicas:** Control de potencia, visualizacion en pantalla OLED 128x64 (SSD1306) e illamento galvanico.
 
-?? **[Ver documentacion e BOM do ATmega328P](./Plataforma_sold_ATmega328p)**
+**[Ver documentacion e BOM do ATmega328P](./Plataforma_sold_ATmega328p)**
 
 ---
 
-### 2. ? [Plataforma_sold_ESP32-C3](./Plataforma_sold_ESP32-C3)
+### 2. [Plataforma_sold_ESP32-C3](./Plataforma_sold_ESP32-C3)
 - **Microcontrolador:** ESP32-C3 SuperMini (RISC-V)
 - **Descricion:** Version baseada no chip ESP32-C3, aproveitando a sua maior velocidade de procesamento e conectividade.
 - **Caracteristicas:** Interface OLED I2C, control mediante encoder rotatorio e procesamento mais rapido da curva de temperatura.
 
-?? **[Ver documentacion e BOM do ESP32-C3](./Plataforma_sold_ESP32-C3)**
+?? [Ver documentacion e BOM do ESP32-C3](./Plataforma_sold_ESP32-C3)**
 
 ---
 
-## ? Caracteristicas Xerais
+##  Caracteristicas Xerais
 
 Ambas versions comparten a seguinte arquitectura e funcionalidade basica:
 
@@ -41,7 +41,7 @@ Ambas versions comparten a seguinte arquitectura e funcionalidade basica:
 
 ---
 
-## ?? Estrutura do Repositorio
+## Estrutura do Repositorio
 
 * `Plataforma_sold_ATmega328p/`: Proxecto, PCB e BOM para ATmega328P
 * `Plataforma_sold_ESP32-C3/`: Proxecto, PCB e BOM para ESP32-C3
@@ -49,4 +49,4 @@ Ambas versions comparten a seguinte arquitectura e funcionalidade basica:
 
 ---
 
-Saudos.
+Saúdos.
