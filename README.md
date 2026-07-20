@@ -22,7 +22,7 @@ O repositorio esta dividido en duas variantes segundo o microcontrolador utiliza
 ---
 
 ### 2. [Plataforma_sold_ESP32-C3](./Plataforma_sold_ESP32-C3)
-<img src="./Plataforma_sold_ESP32-C3/Imaxes/IMG_20260528_120601.jpg" width="180" align="right" alt="ESP32-C3 Version">
+<img src="./Plataforma_sold_ESP32-C3/Imaxes/Plataforma_soldadora_.png" width="180" align="right" alt="ESP32-C3 Version">
 - **Microcontrolador:** ESP32-C3 SuperMini (RISC-V)
 - **Descricion:** Version baseada no chip ESP32-C3, aproveitando a sua maior velocidade de procesamento e conectividade.
 - **Caracteristicas:** Interface OLED I2C, control mediante encoder rotatorio e procesamento mais rapido da curva de temperatura.
