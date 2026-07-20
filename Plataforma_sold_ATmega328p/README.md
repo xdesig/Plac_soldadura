@@ -23,7 +23,7 @@ Sa√∫2.
 
 ## Listado de Compo√±entes (BOM)
 
-|Cant | Valor        | Dispositivo                       | Emcapsulado                  | Parte            | DescriciÛn         |
+|Cant | Valor        | Dispositivo                       | Encapsulado                  | Parte            | DescriciÛn         |
 |-----|--------------|-----------------------------------|------------------------------|------------------|--------------------|
 | **1** | 100R | R0603 | `R1` | Resistor |
 | **1** | 100nF | C0603 | `C3` | Capacitor |
@@ -34,19 +34,18 @@ Sa√∫2.
 | **1** | 1uF | C0603 | `C4` | Capacitor |
 | **4** | 200R | R1206 | `R2`, `R3`, `R12`, `R13` | Resistor |
 | **1** | 22-05-7028-02 | 7395-02 | `J1` | Connector |
-| **3** | 3.0mm | Mounting Hole | `H1`, `H3`, `H4` | Mounting Hole |
 | **1** | 39R | 0204/7 | `R4` | Resistor |
 | **1** | 47K | R0603 | `R5` | Resistor |
 | **2** | 4K7 | R0603 | `R10`, `R11` | Resistor |
-| **1** | ATMEGA328P-AU | TQFP-32 | `IC3` | 8-bit Microcontroller 32KB Flash |
-| **1** | B3U-1000P | SMD_157SW | `S6` | Pushbutton 4x3mm SMD H2.5mm |
-| **1** | BTA06-400B (BT136) | TO-220AB | `T1` | Triac (Sensitive Gate) |
-| **1** | CSTCE16M0V53C-R0 | Resonator | `Y1` | Resonator 16MHz SMD |
-| **1** | OLED 0.96" I2C | 128x64 Module | `OL1` | OLED Display Module (SSD1306) |
-| **1** | Fuse | TE5 | `F1` | Fuse |
-| **1** | MOC3041 | DIL06 / DIP-6 | `OK1` | Optocoupler Triac Driver |
-| **1** | Rotary Encoder | Rotary Enc Plain | `SW2` | Rotary Encoder (No LED) |
-| **1** | RPDZN5W6H | Module | `U1` | Power Supply Module |
+| **1** | ATMEGA328P-AU | TQFP-32 | `IC3` | 8-bit Microcontrolador 32KB Flash |
+| **1** | B3U-1000P | SMD_157SW | `S6` | Pulsador 4x3mm SMD H2.5mm |
+| **1** | BTA06-400B (BT136) | TO-220AB | `T1` | Triac  |
+| **1** | CSTCE16M0V53C-R0 | Resonator | `Y1` | Resonador 16MHz SMD |
+| **1** | OLED 0.96" I2C | 128x64 Module | `OL1` | OLED Display Modulo (SSD1306) |
+| **1** | Fuse | TE5 | `F1` | Fusible |
+| **1** | MOC3041 | DIL06 / DIP-6 | `OK1` | Optoacoplador, Triac |
+| **1** | Rotary Encoder | Rotary Enc Plain | `SW2` | Encoder rotativo pulsador |
+| **1** | RPDZN5W6H | Module | `U1` | Modulo Micro fuente A. |
 
 
 
