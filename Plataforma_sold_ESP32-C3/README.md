@@ -4,7 +4,7 @@
 > Documentación en galego
 
 Tratase dun **controlador térmico intelixente** de placa calefactora 230Vac para soldar/desoldar,
-dese�ado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
+deseÃ±ado para uso persoal, educativo e experimental. Baseado en ESP32-C3, permite:
 
 - Axuste preciso da temperatura (300ºC).
 - Control "P" simple e estable.
