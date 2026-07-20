@@ -13,6 +13,7 @@ O repositorio esta dividido en duas variantes segundo o microcontrolador utiliza
 
 ### 1. [Plataforma_sold_ATmega328p](./Plataforma_sold_ATmega328p)
 <img src="./Plataforma_sold_ATmega328p/Imaxes/IMG_20260528_120601.jpg" width="180" align="right" alt="ATmega328P Version">
+
 - **Microcontrolador:** ATmega328P-AU (TQFP-32).
 - **Descricion:** Version mais lixeira e eficiente baseada na arquitectura clasica de Arduino. Demostra que non e preciso usar un potente ESP32 para realizar este traballo.
 **Caracteristicas:** Control de potencia, visualizacion en pantalla OLED 128x64 (SSD1306) e illamento galvanico.
@@ -23,6 +24,7 @@ O repositorio esta dividido en duas variantes segundo o microcontrolador utiliza
 
 ### 2. [Plataforma_sold_ESP32-C3](./Plataforma_sold_ESP32-C3)
 <img src="./Plataforma_sold_ESP32-C3/Imaxes/Plataforma_soldadora_.png" width="180" align="right" alt="ESP32-C3 Version">
+
 **Microcontrolador:** ESP32-C3 SuperMini (RISC-V).
 **Descricion:** Version baseada no chip ESP32-C3, aproveitando a sua maior velocidade de procesamento e conectividade.
 **Caracteristicas:** Interface OLED I2C, control mediante encoder rotatorio e procesamento mais rapido da curva de temperatura.
