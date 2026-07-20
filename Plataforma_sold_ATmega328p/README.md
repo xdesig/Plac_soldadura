@@ -23,8 +23,8 @@ Sa√∫2.
 
 ## Listado de Compo√±entes (BOM)
 
-|Cant | Valor        | Dispositivo                       | Encapsulado                  | Parte            | DescriciÛn         |
-|-----|--------------|-----------------------------------|------------------------------|------------------|--------------------|
+|Cant | Valor        | Dispositivo                       | Parte            | DescriciÛn         |
+|-----|--------------|-----------------------------------|------------------|------------------|
 | **1** | 100R | R0603 | `R1` | Resistor |
 | **1** | 100nF | C0603 | `C3` | Capacitor |
 | **3** | 10K | R0603 | `R6`, `R8`, `R9` | Resistor |
@@ -42,7 +42,7 @@ Sa√∫2.
 | **1** | BTA06-400B (BT136) | TO-220AB | `T1` | Triac  |
 | **1** | CSTCE16M0V53C-R0 | Resonador | `Y1` | Resonador 16MHz SMD |
 | **1** | OLED 0.96" I2C | 128x64 Modulo | `OL1` | SSD1306 [GND, VCC, SCL, SDA] |
-| **1** | Fuse | TE5 | `F1` | Fusible |
+| **1** | Fusible| TE5 | `F1` | Fusible |
 | **1** | MOC3041 | DIL06 / DIP-6 | `OK1` | Optoacoplador, Triac |
 | **1** | Rotary Encoder | Rotary Enc Plain | `SW2` | Encoder rotativo pulsador |
 | **1** | RPDZN5W6H | Module | `U1` | Modulo Micro fuente A. |
