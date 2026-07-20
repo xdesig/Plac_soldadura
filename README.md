@@ -1,4 +1,4 @@
-# ??? Plataforma de Soldadura (Control de Temperatura)
+#  Plataforma de Soldadura (Control de Temperatura)
 
 > [!NOTE]
 > Documentacion en galego
@@ -25,7 +25,7 @@ O repositorio esta dividido en duas variantes segundo o microcontrolador utiliza
 - **Descricion:** Version baseada no chip ESP32-C3, aproveitando a sua maior velocidade de procesamento e conectividade.
 - **Caracteristicas:** Interface OLED I2C, control mediante encoder rotatorio e procesamento mais rapido da curva de temperatura.
 
-?? [Ver documentacion e BOM do ESP32-C3](./Plataforma_sold_ESP32-C3)**
+**[Ver documentacion e BOM do ESP32-C3](./Plataforma_sold_ESP32-C3)**
 
 ---
 
