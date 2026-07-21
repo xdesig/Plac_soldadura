@@ -2,7 +2,8 @@
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/IMG_20260528_120601.jpg" width="300" align="right">
 
 > [!NOTE]
-> Documentaci&oacute;n en galego
+> Documentation in Galego 
+> [traductor](https://tradutorgaio.xunta.gal/TradutorPublico/traducir/index)
 
 Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefactora 230Vac para soldar/desoldar, dese&ntilde;ado para uso persoal, educativo e experimental. Baseado en ATmega328, non &eacute; preciso usar un potente ESP32 para realizar este traballo, e permite:
 
