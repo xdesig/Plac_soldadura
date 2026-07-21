@@ -1,7 +1,8 @@
 #  Plataforma de Soldadura (Control de Temperatura)
 
 > [!NOTE]
-> Documentacion en galego
+> Documentation in Galego 
+> [traductor](https://tradutorgaio.xunta.gal/TradutorPublico/traducir/index)
 
 Este repositorio conten o deseno de hardware, esquema e firmware para o desenvolvemento dun **controlador termico intelixente** aplicado a unha placa calefactora de 230Vac. O sistema esta desenado para labores de soldadura e desoldadura de componentes SMD/THD en proxectos persoais, educativos e experimentais.
 
