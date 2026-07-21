@@ -1,7 +1,8 @@
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ESP32-C3/Imaxes/IMG_20260528_120601.jpg" width="300" align="right">
 
 > [!NOTE]
-> Documentaci&oacute;n en galego
+> Documentation in Galego 
+> [traductor](https://tradutorgaio.xunta.gal/TradutorPublico/traducir/index)
 
 Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefactora 230Vac para soldar/desoldar, dese&ntilde;ado para uso persoal, educativo e experimental. Esta versi&oacute;n est&aacute; basada no microcontrolador **ESP32-C3 SuperMini**, aproveitando a s&uacute;a alta velocidade e conectividade para a xesti&oacute;n de temperatura e control de potencia.
 
