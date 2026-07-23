@@ -15,10 +15,10 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 - Corte de emerxencia por sobrequecemento (300&deg;C).
 - Illamento galv&aacute;nico (micro-fonte de alimentaci&oacute;n conmutada).
 - Control mediante SSR (Triac) a 230Vac.
- <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/IMG_20260521_140713.jpg" width="300" align="left">
+ <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/IMG_20260521_140713.jpg" width="300" align="right">
 
 Sa&uacute;dos.
-
+<br>
 ---
 
 ## [Versi&oacute;n 00]
