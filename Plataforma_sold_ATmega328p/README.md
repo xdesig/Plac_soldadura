@@ -7,6 +7,8 @@
 
 Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefactora 230Vac para soldar/desoldar, dese&ntilde;ado para uso persoal, educativo e experimental. Baseado en ATmega328, non &eacute; preciso usar un potente ESP32 para realizar este traballo, e permite:
 
+ <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/IMG_20260521_140713.jpg" width="300" align="right">
+ 
 - Axuste preciso da temperatura (ata 300&deg;C).
 - Control "PID" simple e estable.
 - Detecci&oacute;n de fallos do termistor.
@@ -15,9 +17,9 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 - Corte de emerxencia por sobrequecemento (300&deg;C).
 - Illamento galv&aacute;nico (micro-fonte de alimentaci&oacute;n conmutada).
 - Control mediante SSR (Triac) a 230Vac.
- <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/IMG_20260521_140713.jpg" width="300" align="right">
 
-Sa&uacute;dos.
+
+
 <br>
 ---
 
@@ -66,6 +68,7 @@ Sa&uacute;dos.
   <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/ES000057.png" width="90" alt="OSHWA Certification">
 </p>
 
+Sa&uacute;dos.
 ---
 [ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
 [RPDZN5W6H]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ac-dc_5V700mA.png
