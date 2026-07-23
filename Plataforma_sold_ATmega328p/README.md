@@ -56,7 +56,7 @@ Sa&uacute;dos.
 * Author: XDeSIG [No Twitter, no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: ES000057
-<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/ES000057.png" width="100" align="left">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/ES000057.png" width="300" align="left">
 
 
 ---
