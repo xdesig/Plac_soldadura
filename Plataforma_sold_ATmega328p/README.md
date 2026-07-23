@@ -50,15 +50,19 @@ Sa&uacute;dos.
 
 
 
-## Deseñado en Estrimia con agarimo.
+## Deseñado en Entrimo con agarimo.
 
 ### Author and license
 * Author: XDeSIG [No Twitter, no X]
-* License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
-* Open Hardware Certification: ES000057 
+* License:[ CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
+* Certification:[ Open Hardware Certification: ES000057][OSHWA]
 
-<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/ES000057.svg" width="100" align="left">
+<br>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/xdesig/Plac_soldadura/main/Plataforma_sold_ESP32-C3/Imaxes/oshw_facts.png" width="120" alt="OSHW Facts">
+  <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/ES000057.svg" width="100" alt="OSHWA Certification">
+</p>
 
 ---
 [ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
