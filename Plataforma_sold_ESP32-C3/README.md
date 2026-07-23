@@ -50,7 +50,7 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ESP32-C3/Imaxes/oshw_facts.png" width="200" align="left">
 
-* Open Hardware Certification: ES000055[OSHWA]
+* [Open Hardware Certification: ES000055][OSHWA]
 
 <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ESP32-C3/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="left">
 
