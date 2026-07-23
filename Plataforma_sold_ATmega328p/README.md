@@ -19,6 +19,8 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 
 Sa&uacute;dos.
 
+---
+
 ## [Versi&oacute;n 00]
 
 
