@@ -46,8 +46,8 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 
 ### Author and license
 * Author: XDeSIG [No Twitter, no X]
-* License:[CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
-* Certification:[Open Hardware Certification: ES000055][OSHWA]
+* License:[ CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
+* Certification:[ Open Hardware Certification: ES000055][OSHWA]
 
 <br>
 
