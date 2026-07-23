@@ -52,10 +52,9 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 <br>
 
 <p align="left">
-  <img src="Plataforma_sold_ESP32-C3/Imaxes/oshw_facts.png" width="120" alt="OSHW Facts">
-  <img src="Plataforma_sold_ESP32-C3/Imaxes/certification-mark-ES000055-stacked.png" width="100" alt="OSHWA Certification">
+  <img src="https://raw.githubusercontent.com/xdesig/Plac_soldadura/main/Plataforma_sold_ESP32-C3/Imaxes/oshw_facts.png" width="120" alt="OSHW Facts">
+  <img src="https://raw.githubusercontent.com/xdesig/Plac_soldadura/main/Plataforma_sold_ESP32-C3/Imaxes/certification-mark-ES000055-stacked.png" width="100" alt="OSHWA Certification">
 </p>
-
 ---
 [ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
 [ESP32 C3 Supermini]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ESP32-C3.webp
