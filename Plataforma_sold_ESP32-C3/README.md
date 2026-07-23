@@ -48,7 +48,7 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 * Author: XDeSIG [No Twitter, no X]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: ES000055
-<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="left">
+<img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ESP32-C3/Imaxes/certification-mark-ES000055-stacked.png" width="100" align="left">
 
 
 ---
