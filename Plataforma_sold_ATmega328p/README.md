@@ -61,7 +61,7 @@ Sa&uacute;dos.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/xdesig/Plac_soldadura/main/Plataforma_sold_ESP32-C3/Imaxes/oshw_facts.png" width="120" alt="OSHW Facts">
-  <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/ES000057.png" width="120" alt="OSHWA Certification">
+  <img src="https://github.com/xdesig/Plac_soldadura/blob/main/Plataforma_sold_ATmega328p/Imaxes/ES000057.png" width="100" alt="OSHWA Certification">
 </p>
 
 ---
