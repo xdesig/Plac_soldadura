@@ -45,9 +45,9 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
 ## Deseñado en Entrimo con agarimo.
 
 ### Author and license
-* **Author:** XDeSIG [No Twitter, no X]
-* **License:** [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
-* **Certification:** [Open Hardware Certification: ES000055][OSHWA]
+* Author: XDeSIG [No Twitter, no X]
+* License:[CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
+* Certification:[Open Hardware Certification: ES000055][OSHWA]
 
 <br>
 
@@ -55,7 +55,10 @@ Tr&aacute;tase dun **controlador t&eacute;rmico intelixente** de placa calefacto
   <img src="https://raw.githubusercontent.com/xdesig/Plac_soldadura/main/Plataforma_sold_ESP32-C3/Imaxes/oshw_facts.png" width="120" alt="OSHW Facts">
   <img src="https://raw.githubusercontent.com/xdesig/Plac_soldadura/main/Plataforma_sold_ESP32-C3/Imaxes/certification-mark-ES000055-stacked.png" width="100" alt="OSHWA Certification">
 </p>
+
 ---
+
+
 [ROTARTY_ENCODER]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/Rotary_encoder.webp
 [ESP32 C3 Supermini]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ESP32-C3.webp
 [RPDZN5W6H]: https://github.com/xdesig/Plac_soldadura/blob/main/Imaxes/ac-dc_5V700mA.png
